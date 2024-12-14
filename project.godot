@@ -126,3 +126,8 @@ quality/driver/driver_name="GLES2"
 quality/2d/use_pixel_snap=true
 vram_compression/import_etc=true
 quality/dynamic_fonts/use_oversampling=false
+
+[xogot]
+
+project/editorState=[]
+project/breakpoints={}
