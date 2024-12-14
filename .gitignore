@@ -1,3 +1,6 @@
-.godot/
+.godot/editor/
 .import/
 [Ee]xport/
+
+# Mac-specific ignores
+**/.DS_Store
