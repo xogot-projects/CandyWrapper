@@ -22,7 +22,7 @@ jobs:
           include-templates: false
 
     - name: import project
-      run: godot --headless -e --quit-after 100
+      run: godot --import
     - name: Zip up Folder
       run: zip -r build.zip . -x "*.git*" -x "*.github*" -x "*.vscode*" -x ".godot/editor/*" -x "build.zip"
 
