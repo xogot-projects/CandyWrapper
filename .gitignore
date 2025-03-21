@@ -1,4 +1,6 @@
 .godot/
+!.godot/editor/
+
 .import/
 [Ee]xport/
 
