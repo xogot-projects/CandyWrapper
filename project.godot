@@ -28,6 +28,7 @@ window/size/viewport_height=144
 window/size/window_width_override=576
 window/size/window_height_override=576
 window/stretch/mode="canvas_items"
+window/stretch/scale_mode="fractional"
 
 [importer_defaults]
 
